@@ -1,10 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/warezone/warezone.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome! This is where I will store all things related to coding for my computer science classes. I primarily use Scratch and Python with my high school students. So let's begin.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Scratch
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

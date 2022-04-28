@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## THE WAREZONE
 
 Welcome! This is where I will store all things related to coding for my computer science classes. I primarily use Scratch and Python with my high school students. So let's begin.
 

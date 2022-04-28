@@ -12,7 +12,7 @@ Scratch promotes computational thinking and problem solving skills; creative tea
 
 
 
-- Explore Scratch [Scratch](https://scratch.mit.edu/projects/682177567/editor) Tutorials to find out how you can create stories, animations, games, and more!
+- Explore Scratch [Scratch](https://scratch.mit.edu/projects/all) Tutorials to find out how you can create stories, animations, games, and more!
 - Download and print [Coding Cards](https://resources.scratch.mit.edu/www/cards/en/scratch-cards-all.pdf) for step-by-step instructions for a variety of projects.
 
 

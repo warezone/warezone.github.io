@@ -16,5 +16,6 @@ Scratch promotes computational thinking and problem solving skills; creative tea
 - Download and print [Coding Cards](https://resources.scratch.mit.edu/www/cards/en/scratch-cards-all.pdf) for step-by-step instructions for a variety of projects.
 
 
+## Scratch Example
 
 <iframe src="https://scratch.mit.edu/projects/11643019/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
